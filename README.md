@@ -1,2 +1,8 @@
-# Project-Based-Career-Evidence
-SkillProof converts student GitHub projects into verifiable career evidence using an Evidence Score (0–100) based on consistency, complexity, README quality, and recency. It detects potential gaming, keeps projects private by default, labels AI-generated summaries, and enables mentor-verified skills and evidence-based recruiter searches.
+# pytest cache directory #
+
+This directory contains data from the pytest's cache plugin,
+which provides the `--lf` and `--ff` options, as well as the `cache` fixture.
+
+**Do not** commit this to version control.
+
+See [the docs](https://docs.pytest.org/en/stable/how-to/cache.html) for more information.
